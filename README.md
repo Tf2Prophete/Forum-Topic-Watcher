@@ -3,6 +3,10 @@ Forum-Topic-Watcher
 
 A program to watch topics for new posts
 
+Please note, this program only currently works for TeamFortress.Tv and AutoItScript.com.
+
+If you have a specific website you would like to use this with, please email me and I can see what I can do.
+
 But simply put, you choose a topic you wan't to keep an eye on and when there is a new post in that topic it will alert you to it!
 
 You can choose to alert you with a simple window or for the program to play a sound of your choosing.
